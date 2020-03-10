@@ -1,0 +1,43 @@
+header{
+    background-color: #eeeeee;
+    text-align: center;    
+}
+nav{
+    background-color:black;
+}
+h2{
+    color: red;
+    font-weight: bold;
+}
+section article p{
+    font-style: italic;
+    color: blue;
+}
+section #article1 {
+    background-color: yellow;
+}
+section #article2 {
+    background-color: tomato;
+}
+section #article3 {
+    background-color: purple;
+}
+aside{
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
+aside a{
+    color: white;
+    text-align: center;
+}
+aside li{
+    list-style-type: none;
+}
+footer{
+    background-color: rgb(236, 9, 198);
+    text-align: center;
+}
+.linkas{
+    text-align: center;
+}
